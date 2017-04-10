@@ -38,3 +38,5 @@ Pulling the repo:
 $ git clone https://github.com/Shashank7T/DDIS---P12---H1B.git
 
 *****
+Executing the code:
+$ mapper.py reducer.py output.txt
