@@ -1,4 +1,4 @@
-P06 – Hadoop Map-Reduce
+P06 â€“ Hadoop Map-Reduce
 
 Team members: Shashank Tiruvaipati, 
 		   Laxmi Sai Teja Naraharasetty
@@ -6,7 +6,7 @@ Team members: Shashank Tiruvaipati,
 Summary: Our MR project is mainly based on extracting the maximum and minimum acceptance of H1-B visas in the year 2016.
 
 Data source in detail:
-	We have chosen H1-B visa petitions data set for the years 2015 and 2016 which consists of status of the case, employer’s name, job title, etc.
+	We have chosen H1-B visa petitions data set for the years 2015 and 2016 which consists of status of the case, employerâ€™s name, job title, etc.
 	Our data source contains 469 Mega Bytes of data with more than 1,000,000 records. The file extension is .csv(Excel). The format of dataset is structured.
 Volume is the main big data problem for this data set.
 
@@ -43,14 +43,14 @@ Processing: We will be processing both text & numeric and we have selected first
 *****
 Pulling the repo:
 ==> Open the project folder in windows(local)
-==> Right click anywhere on the screen and select “Open command window here as administrator”
+==> Right click anywhere on the screen and select â€œOpen command window here as administratorâ€
 ==> Then type the following statement
 	$ git clone https://github.com/Shashank7T/DDIS---P12---H1B.git
 
 *****
 Executing the code:
 ==> Open the project folder in windows(local).
-==> Right click anywhere on the screen and select “Open command window here as administrator”
+==> Right click anywhere on the screen and select â€œOpen command window here as administratorâ€
 ==> Type python
 ==> Then type the following commands as follows:
 
@@ -58,6 +58,11 @@ Executing the code:
 		>>>execfile("reducer.py")
 
 Graphical representation:
+Graphical representation for highest acceptace of H1-B visas for the year 2016
+![Shashank Graph](Shashank Graph.PNG)
+
+Graphical representation for lowest acceptace of H1-B visas for the year 2016
+![Teja Graph](Teja Graph.PNG)
 
 Resources:
 	http://kbroman.org/github_tutorial/pages/init.html
