@@ -57,13 +57,13 @@ Executing the code:
 		>>>execfile("mapper.py")
 		>>>execfile("reducer.py")
 
-Graphical representation:
 Graphical representation for highest acceptace of H1-B visas for the year 2016
 ![shashank graph](https://cloud.githubusercontent.com/assets/22079691/25055592/58b060d6-2129-11e7-99f6-29687c6806e8.JPG)
 
 
 Graphical representation for lowest acceptace of H1-B visas for the year 2016
-![Teja Graph](Teja Graph.JPG)
+![teja graph](https://cloud.githubusercontent.com/assets/22079691/25055630/941f2e04-2129-11e7-925b-70cae0466993.JPG)
+
 
 Resources:
 	http://kbroman.org/github_tutorial/pages/init.html
