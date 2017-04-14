@@ -1,5 +1,5 @@
 sorted = open("jobsort.txt","r")     
-results = open("jobreducer_output.txt", "w")   
+results = open("output.txt", "w")   
 
 CASE_STATUS = 0        
 JOB_TITLE = None    
