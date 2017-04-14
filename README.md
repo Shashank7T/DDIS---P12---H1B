@@ -1,6 +1,6 @@
 P06 – Hadoop Map-Reduce
 
-Team members: Shashank Tiruvaipati
+Team members: Shashank Tiruvaipati, 
 		   Laxmi Sai Teja Naraharasetty
 
 Summary: Our MR project is mainly based on extracting the maximum and minimum acceptance of H1-B visas in the year 2016.
