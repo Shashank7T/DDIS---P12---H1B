@@ -59,10 +59,10 @@ Executing the code:
 
 Graphical representation:
 Graphical representation for highest acceptace of H1-B visas for the year 2016
-![Shashank Graph](Shashank Graph.PNG)
+![Shashank Graph](Shashank Graph.JPG)
 
 Graphical representation for lowest acceptace of H1-B visas for the year 2016
-![Teja Graph](Teja Graph.PNG)
+![Teja Graph](Teja Graph.JPG)
 
 Resources:
 	http://kbroman.org/github_tutorial/pages/init.html
