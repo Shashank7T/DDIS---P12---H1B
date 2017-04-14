@@ -34,13 +34,13 @@ Mapper Input: (Sample data is stored in SampleH1.txt)
 
 Mapper output/Reducer Input:  Mapper function will produce the Intermediate key values pairs. The format is shown below.
 
-	![mapper](https://cloud.githubusercontent.com/assets/22079691/25056196/e5c6a3f6-212c-11e7-8e1b-bc65e84436b5.JPG)
+![mapper](https://cloud.githubusercontent.com/assets/22079691/25056196/e5c6a3f6-212c-11e7-8e1b-bc65e84436b5.JPG)
 		
 
 Reducer Output:  Reducer will produce the following sample output and the output is stored in output.txt file.
 
       
- 	![reducer](https://cloud.githubusercontent.com/assets/22079691/25056200/e9e9d2dc-212c-11e7-80f5-0866b270e50e.JPG)
+ ![reducer](https://cloud.githubusercontent.com/assets/22079691/25056200/e9e9d2dc-212c-11e7-80f5-0866b270e50e.JPG)
 
 Language used: Python.
 
